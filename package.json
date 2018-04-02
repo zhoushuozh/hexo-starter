@@ -12,6 +12,6 @@
     "hexo-renderer-marked": "^0.3.2"
   },
   "scripts": {
-    "test": "hexo g"
+    "test": "hexo g & hexo g"
   }
 }
